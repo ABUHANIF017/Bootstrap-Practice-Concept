@@ -1,3 +1,8 @@
 .background-gradient {
     background-image: linear-gradient(to right, blue, rgb(208, 112, 183));
 }
+
+.text-white img {
+    width: 130px;
+    margin-top: 20px;
+}
